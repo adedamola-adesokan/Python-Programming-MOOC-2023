@@ -1,6 +1,6 @@
 # Python-Programming-MOOC-2023
 
-I would be logging daily updates of my progess during the [Introduction to Programming course (BSCS1001, 5 cr) and the Advanced Course in Programming (BSCS1002, 5 cr) from the Department of Computer Science at the University of Helsinki]([https://programming-23.mooc.fi/]) The goal is to help me set *Specific, Measurable, Achievable, Realistic, Time-Bound (SMART)* goals for the next two months. The two elements for success in this challenge are *consistency* and *commitment*. I'm excited to be doing this!
+I'm doing a quick Python refresher course and would be logging daily updates of my progess during the [Introduction to Programming course (BSCS1001, 5 cr) and the Advanced Course in Programming (BSCS1002, 5 cr) from the Department of Computer Science at the University of Helsinki]([https://programming-23.mooc.fi/]) The goal is to help me set *Specific, Measurable, Achievable, Realistic, Time-Bound (SMART)* goals for the next two months. The two elements for success in this challenge are *consistency* and *commitment*. I'm excited to be doing this!
  
 ___
  ## D1 (08-17-23)
