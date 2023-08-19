@@ -9,3 +9,8 @@ ___
    - [Information from the User](https://programming-23.mooc.fi/part-1/2-information-from-the-user/)
    - [More about variables](https://programming-23.mooc.fi/part-1/3-more-about-variables)
    - [Arithmetic Operations](https://programming-23.mooc.fi/part-1/4-arithmetic-operations)
+ ## D2 (08-18-23)
+ - Continued work on Part 1 of the Modules
+   - [Conditional Statements](https://programming-23.mooc.fi/part-1/5-conditional-statements/)
+- Commenced work on Part 2 of the Modules
+   - [Programming Terminology](https://programming-23.mooc.fi/part-2/1-programming-terminology)
