@@ -14,3 +14,13 @@ ___
    - [Conditional Statements](https://programming-23.mooc.fi/part-1/5-conditional-statements/)
 - Commenced work on Part 2 of the Modules
    - [Programming Terminology](https://programming-23.mooc.fi/part-2/1-programming-terminology)
+ ## D3 (08-19-23)
+ - Continued work on Part 2 of the Modules
+   - [More Conditions](https://programming-23.mooc.fi/part-2/2-else-elif)
+   - [Combining Conditions](https://programming-23.mooc.fi/part-2/3-combining-conditions)
+ ## D4 (08-20-23)
+ - Continued work on Part 2 of the Modules
+   - [Simple Loops](https://programming-23.mooc.fi/part-2/4-simple-loops/)
+ - Commenced work on Part 3 of the Modules
+   - [Loops with conditions](https://programming-23.mooc.fi/part-3/1-loops-with-conditions/)
+   - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
