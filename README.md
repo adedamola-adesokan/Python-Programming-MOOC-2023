@@ -24,3 +24,6 @@ ___
  - Commenced work on Part 3 of the Modules
    - [Loops with conditions](https://programming-23.mooc.fi/part-3/1-loops-with-conditions/)
    - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
+ ## D5 (08-21-23)
+ - Continued work on Part 3 of the Modules
+   - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
