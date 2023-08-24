@@ -15,21 +15,24 @@ ___
 - Commenced work on Part 2 of the Modules
    - [Programming Terminology](https://programming-23.mooc.fi/part-2/1-programming-terminology)
  ## D3 (08-19-23)
- - Continued work on Part 2 of the Modules
+- Continued work on Part 2 of the Modules
    - [More Conditions](https://programming-23.mooc.fi/part-2/2-else-elif)
    - [Combining Conditions](https://programming-23.mooc.fi/part-2/3-combining-conditions)
  ## D4 (08-20-23)
- - Continued work on Part 2 of the Modules
+- Continued work on Part 2 of the Modules
    - [Simple Loops](https://programming-23.mooc.fi/part-2/4-simple-loops/)
- - Commenced work on Part 3 of the Modules
+- Commenced work on Part 3 of the Modules
    - [Loops with conditions](https://programming-23.mooc.fi/part-3/1-loops-with-conditions/)
    - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
  ## D5 (08-21-23)
- - Continued work on Part 3 of the Modules
+- Continued work on Part 3 of the Modules
    - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
  ## D6 (08-22-23)
- - Continued work on Part 3 of the Modules
+- Continued work on Part 3 of the Modules
    - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
- ## D6 (08-22-23)
- - Continued work on Part 3 of the Modules
+ ## D7 (08-23-23)
+- Continued work on Part 3 of the Modules
+   - [More Loops](https://programming-23.mooc.fi/part-3/3-more-loops/)
+  ## D8 (08-24-23)
+- Continued work on Part 3 of the Modules
    - [More Loops](https://programming-23.mooc.fi/part-3/3-more-loops/)
