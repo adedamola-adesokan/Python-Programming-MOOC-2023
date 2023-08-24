@@ -27,3 +27,9 @@ ___
  ## D5 (08-21-23)
  - Continued work on Part 3 of the Modules
    - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
+ ## D6 (08-22-23)
+ - Continued work on Part 3 of the Modules
+   - [Working with strings](https://programming-23.mooc.fi/part-3/2-working-with-strings/)
+ ## D6 (08-22-23)
+ - Continued work on Part 3 of the Modules
+   - [More Loops](https://programming-23.mooc.fi/part-3/3-more-loops/)
