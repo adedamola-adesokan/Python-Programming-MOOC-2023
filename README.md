@@ -78,3 +78,10 @@ ___
 - Continued work on Part 4 of the Modules
   - [More Functions](https://programming-23.mooc.fi/part-4/2-more-functions)
   - [Lists](https://programming-23.mooc.fi/part-4/3-lists)
+
+## D14 (08-30-23)
+
+- Continued work on Part 4 of the Modules
+  - [Definite Iteration](https://programming-23.mooc.fi/part-4/4-definite-iteration)
+  - [Print Statement Formatting](https://programming-23.mooc.fi/part-4/5-print-statement-formatting)
+  - [More Strings and List](https://programming-23.mooc.fi/part-4/6-strings-and-lists)
