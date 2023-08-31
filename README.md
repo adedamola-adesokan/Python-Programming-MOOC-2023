@@ -85,3 +85,8 @@ ___
   - [Definite Iteration](https://programming-23.mooc.fi/part-4/4-definite-iteration)
   - [Print Statement Formatting](https://programming-23.mooc.fi/part-4/5-print-statement-formatting)
   - [More Strings and List](https://programming-23.mooc.fi/part-4/6-strings-and-lists)
+    
+## D15 (08-31-23)
+
+- Completed work on Part 4 of the Modules
+  - [More Strings and List](https://programming-23.mooc.fi/part-4/6-strings-and-lists)
