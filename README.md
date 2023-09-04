@@ -85,8 +85,22 @@ ___
   - [Definite Iteration](https://programming-23.mooc.fi/part-4/4-definite-iteration)
   - [Print Statement Formatting](https://programming-23.mooc.fi/part-4/5-print-statement-formatting)
   - [More Strings and List](https://programming-23.mooc.fi/part-4/6-strings-and-lists)
-    
+
 ## D15 (08-31-23)
 
 - Completed work on Part 4 of the Modules
   - [More Strings and List](https://programming-23.mooc.fi/part-4/6-strings-and-lists)
+
+## D16 (09-01-23)
+
+- Commenced work on Part 5 of the Modules
+  - [More Lists](https://programming-23.mooc.fi/part-5/1-more-lists)
+
+## D17 (09-02-23)
+
+- Continued work on Part 5 of the Modules
+  - [More Lists](https://programming-23.mooc.fi/part-5/1-more-lists)
+
+## D18 (09-03-23)
+
+- Unfortunately, had to take today off to prepare for the Google Cloud Certified - Professional Cloud Security Engineer
