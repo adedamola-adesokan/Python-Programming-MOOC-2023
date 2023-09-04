@@ -103,4 +103,4 @@ ___
 
 ## D18 (09-03-23)
 
-- Unfortunately, had to take today off to prepare for the Google Cloud Certified - Professional Cloud Security Engineer
+- Unfortunately, had to take today off to prepare for the Google Cloud Certified - Professional Cloud Security Engineer Exam
