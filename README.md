@@ -104,3 +104,35 @@ ___
 ## D18 (09-03-23)
 
 - Unfortunately, had to take today off to prepare for the Google Cloud Certified - Professional Cloud Security Engineer Exam
+
+## D19 (09-04-23)
+
+- [References](https://programming-23.mooc.fi/part-5/2-references)
+
+## D20 (09-05-23)
+
+- [References](https://programming-23.mooc.fi/part-5/2-references)
+
+## D21 (09-06-23)
+
+- [References](https://programming-23.mooc.fi/part-5/2-references)
+
+## D22 (09-07-23)
+
+- [References](https://programming-23.mooc.fi/part-5/2-references)
+
+## D23 (09-08-23)
+
+- [References](https://programming-23.mooc.fi/part-5/2-references)
+
+## D24 (09-09-23)
+
+- [Dictionary](https://programming-23.mooc.fi/part-5/3-dictionary)
+
+## D25 (09-10-23)
+
+- [Dictionary](https://programming-23.mooc.fi/part-5/3-dictionary)
+
+## D26 (09-11-23)
+
+- [Tuple](https://programming-23.mooc.fi/part-5/4-tuple)
